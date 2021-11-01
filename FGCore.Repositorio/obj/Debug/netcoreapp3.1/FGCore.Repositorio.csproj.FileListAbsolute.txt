@@ -1,0 +1,15 @@
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.Repositorio.deps.json
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.Repositorio.dll
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.Repositorio.pdb
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.dominio.dll
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.dominio.pdb
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.csproj.AssemblyReference.cache
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.AssemblyInfoInputs.cache
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.AssemblyInfo.cs
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.dll
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.pdb
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.Repositorio.runtimeconfig.json
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\bin\Debug\netcoreapp3.1\FGCore.Repositorio.runtimeconfig.dev.json
+C:\Users\nunes\Documents\TesteEstagio\FGCore.WebAPI\FGCore.Repositorio\obj\Debug\netcoreapp3.1\FGCore.Repositorio.genruntimeconfig.cache
